@@ -1,0 +1,1 @@
+# https-github.com-brunogsiq-QA_Proj_RobotFrameWork_TradeSticker
